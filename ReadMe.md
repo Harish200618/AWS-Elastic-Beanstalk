@@ -4,7 +4,7 @@
 ## AIM
 
 * To access the AWS Elastic Beanstalk environment.
-* To deploy a sample application to Elastic Beanstalk.
+* To deploy a sample application to Elastic Beanstalk
 * To explore the AWS resources created and managed by Elastic Beanstalk.
 
 ---
